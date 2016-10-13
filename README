@@ -1,0 +1,12 @@
+Ising Model Python/Curses Implementation
+
+Author: Luke Elliott
+License: GNU GPL 3.0 (See LICENSE)
+Requirements: Python 3 (Tested Python 3.5)
+
+Usage
+
+python main.py
+
+Temp/external field controlled by arrow keys.
+Q to quit.
