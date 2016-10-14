@@ -8,5 +8,5 @@ Usage
 
 python main.py
 
-Temp/external field controlled by arrow keys.
+Temp/external field controlled by arrow keys or by pressing corresponding key (T/H)
 Q to quit.
